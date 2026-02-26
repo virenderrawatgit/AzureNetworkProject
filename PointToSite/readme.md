@@ -1,4 +1,4 @@
-Azure Point-to-Site (P2S) VPN – Implementation Guide
+# Azure Point-to-Site (P2S) VPN – Implementation Guide
 
 This repository documents the design and configuration of **Azure Point-to-Site (P2S) VPN**, which enables secure remote access for individual clients to Azure Virtual Networks over an encrypted tunnel.
 
@@ -8,7 +8,7 @@ The project covers **all three supported P2S authentication methods**:
 - Azure Active Directory (Azure AD) Authentication
 
 ---
-What is Point-to-Site VPN?
+## What is Point-to-Site VPN?
 
 Point-to-Site VPN allows individual client devices (Windows, macOS, Linux) to connect securely to an Azure VNet without requiring a site-to-site VPN device.
 
